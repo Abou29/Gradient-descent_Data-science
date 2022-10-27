@@ -1,4 +1,4 @@
-# test-abou
+# Code de la descente du gradient et application
 **I - Coder en python un modèle de régression pour n variables d'entrée (variables explicatives)**
 
 Le code doit pouvoir :
